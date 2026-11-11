@@ -1,6 +1,6 @@
 # About Me
 Greetings,
-I'm a CS student at **VŠB-TUO** driven by curiosity. My standard work/uni day revolves around managing Linux systems and networking, but recently, I've been actively rewiring my focus towards backend development and trying to contribute to small open-source projects. 
+I'm a CS student at VSB-TUO driven by curiosity. My standard work/uni day revolves around managing Linux systems and networking, but recently, I've been actively rewiring my focus towards backend development and trying to contribute to small open-source projects. 
 
 I'm especially drawn to reverse engineering, which can be observed in my bachelor's thesis, implementing proprietary NFC standards into an open-source library. I enjoy building software that actually respects the infrastructure it runs on, and I'm always looking for an excuse to dive into a niche cryptology idea.
 
