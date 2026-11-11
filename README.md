@@ -2,6 +2,6 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fajlestik-null&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=fajlestik-null&custom_title=My%20Awesome%20Stats)](https://github.com/stats-organization/github-stats-extended)
 
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajlestik-null&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fajlestik-null&hide=html,css,JavaScript,Cmake,Roff&exclude_repo=vsb-zpg)](https://github.com/stats-organization/github-stats-extended)
